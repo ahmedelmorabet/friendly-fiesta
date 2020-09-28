@@ -1,0 +1,62 @@
+body {
+    background-color: silver;
+}
+  .ik {
+      color: darkblue;
+}
+.head {
+    text-shadow: 2px 2px 5px darkblue;
+}  
+
+#hobby{
+    color: silver;
+    background-color: darkblue;
+}
+
+#mooi{
+    color: silver;
+    background-color: darkblue;
+}
+
+#bal{
+    color: darkblue;
+}
+
+#film{
+    color: darkblue;
+}
+
+#lees{
+    color: darkblue;
+}
+
+#bouw{
+    color: darkblue;
+}
+
+#auto{
+    color: darkblue;
+}
+
+#natuur{
+    color: darkblue;
+}
+
+.head2{
+    text-shadow: 2px 2px 5px darkblue;
+}
+
+nav ul{
+    margin: 0px;
+    padding: 8px;
+    list-style: none;
+    float: right;
+    display: block;
+    background-color: darkblue;
+    overflow: hidden;
+    color: black;
+    width: 1560px;
+
+}
+
+
