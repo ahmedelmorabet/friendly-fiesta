@@ -1,0 +1,77 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 5%;
+    background-color: #212F3D;
+    justify-content: space-between;
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    color: orange;
+    font-weight: 900;
+}
+
+
+
+nav ul li{
+    margin-left: 20px;
+    margin-left: 20px;
+
+}
+
+nav ul li a{
+    color: white;
+    display: block;
+    padding: 10px 30px;
+
+}
+
+nav ul li a:hover{
+    color: orange;
+}
+
+main{
+    border: 5px solid orange;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 486px;
+}
+
+.inhoud{
+    padding: 10px 5%;
+}
+
+footer{
+    background-color: #212F3D;
+    color: orange;
+    font-size: 13px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.footer{
+    padding: 0px 5%;
+}
